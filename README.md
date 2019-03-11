@@ -1,6 +1,6 @@
 # Output
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4. and contains the example code of the article [Understanding @Output and EventEmitter in Angular](https://dzone.com/articles/understanding-output-and-eventemitter-in-angular).
 
 ## Development server
 
